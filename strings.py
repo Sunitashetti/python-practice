@@ -13,9 +13,9 @@ print(greeting)
 
 # String methods
 message = "  Hello World  "
-print(message.upper(Hello World))
-print(message.lower(Hello World))
-print(message.strip(Hello World))
+print(message.upper())
+print(message.lower())
+print(message.strip())
 print(message.replace("World", "Python"))
 
 # Indexing
