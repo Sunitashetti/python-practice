@@ -1,0 +1,74 @@
+# python-practice
+My Python learning journey
+
+# My Python Learning Journey 
+
+This repository documents my Python learning journey from basics to core programming concepts.  
+I am a Diploma CSE student building strong fundamentals through daily practice.
+
+---
+
+## Learning Progress
+
+### Day 1
+- Even or Odd program  
+- Simple Calculator  
+
+### Day 2
+- Variables and Data Types  
+- Basic Syntax  
+
+### Day 3
+- Input and Output  
+- Type Conversion  
+- String Operations  
+- String Methods  
+- Indexing and Slicing  
+- Comments and Escape Sequences  
+
+### Day 4
+- Operators in Python  
+- Arithmetic Operators  
+- Comparison Operators  
+- Logical Operators  
+
+### Day 5
+- Tuples in Python  
+- Sets in Python  
+- Set Operations  
+- Difference between Tuples and Sets  
+
+### Day 6
+- Dictionaries in Python  
+- Dictionary Operations  
+- Dictionary Methods  
+- Built-in Functions  
+
+### Day 7
+- Conditional Statements  
+- if, else, elif  
+
+### Day 8
+- While Loop  
+- break and continue  
+- Nested Loops  
+
+### Day 9
+- For Loop  
+- Iterating over lists and strings  
+- Using range()  
+
+### Day 10
+- Advanced Loop Concepts  
+- Nested loops  
+- Loop else  
+- pass statement  
+- enumerate() and zip()  
+
+---
+
+## Goal
+To become a strong Python programmer by mastering core concepts and maintaining consistency through daily learning and practice.
+
+## About Me
+I am a Diploma Computer Science student, learning Python and documenting my journey to build a solid foundation for internships, projects, and future opportunities.
